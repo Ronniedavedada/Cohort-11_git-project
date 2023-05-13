@@ -4,5 +4,8 @@ Football
 Baseball
 Cricket
 Swimming
+Bowling
+Judo
+Lawn tennis
 
 
